@@ -2,9 +2,11 @@
 
 By this time you should have been introduced to Java Strings, Exceptions, Unit Testing.
 
-You will need to watch this video before you start the assessment, REGEX is a big part of the solution. [REGEX](https://www.youtube.com/watch?v=rhzKDrUiJVk)
+You will need to watch this video before you start the assessment, REGEX is a big part of the solution. [REGEX](https://www.youtube.com/watch?v=rhzKDrUiJVk).
 
-You will have 4 hours and 20 mins to get as far as you can. Once the time is up, push up your changes, and create a pull request.
+You can test your REGEX ideas using this website [regexr.com](https://regexr.com/)
+
+You will have 5 hours to get as far as you can. Once the time is up, push up your changes, and create a pull request.
 
 
 # You will need all of these today!
