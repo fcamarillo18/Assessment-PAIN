@@ -4,9 +4,12 @@ By this time you should have been introduced to Java Strings, Exceptions, Unit T
 
 You will need to watch this video before you start the assessment, REGEX is a big part of the solution. [REGEX](https://www.youtube.com/watch?v=rhzKDrUiJVk)
 
+You will have 4 hours and 20 mins to get as far as you can. Once the time is up, push up your changes, and create a pull request.
+
+
 # You will need all of these today!
 
-In this project you will find a file in the resource folder called RawData.txt. It was supposed to be a grocery list formatted in JSON, but Tariq your fearless leader decided to come reformat it in his own Object Notation. JerkSON... you are welcome.
+In this project you will find a file in the resource folder called RawData.txt. It was supposed to be a grocery list formatted in JSON, but Baron Von Codem the  fearless leader bof the WEST SIDE decided to come reformat it in his own Object Notation. JerkSON... you are welcome.
 
 ## JerkSON Format
 
